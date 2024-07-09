@@ -6,4 +6,4 @@ print bye():
   print("bye")
 
 
-hello()
+print(hello())
